@@ -1,3 +1,6 @@
-#image{
+.wrapper{
+    background-color:gray;
+}
+.image{
     background-color: red;
 }
